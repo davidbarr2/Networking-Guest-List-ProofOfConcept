@@ -15,6 +15,8 @@ React, Redux, Redux Thunk
 
 ### Future Improvements
 * Click guest name to hide details
+* Reset form on submit
+* Add new guest to top of list for user experience
 
 ## API documentation 
 
